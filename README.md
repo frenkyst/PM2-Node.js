@@ -43,6 +43,12 @@ Menggunakan PM2+LocalTunnel untuk menjalankan Aplikasi
 
 7. Jalankan command berikut untuk melakukan local tunnel ke port 3000 aplikasi nodejs dan port 5000 aplikasi python yang sudah di jalankan dengan pm2 sebelumnya (dijalankan bergantian)
 
+![image](https://user-images.githubusercontent.com/40049149/186724543-c2eb1ca7-6c8e-4d49-9673-b414007b5ea2.png)
+
         lt -p 3000
 
+![image](https://user-images.githubusercontent.com/40049149/186724318-aa9fd54d-32f3-4b17-9a01-f171e4d179dd.png)
+
         lt -p 5000
+
+![image](https://user-images.githubusercontent.com/40049149/186724500-039de3df-30dd-49f7-bbfc-7d2c52f751c5.png)
